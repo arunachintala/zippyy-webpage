@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  .logo {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .menu {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .menu .ant-menu-item {
+    margin: 0 10px;
+  }
+  
+  .right-side {
+    display: flex;
+  }
+  
+  .signin {
+    color: white;
+  }
+  
+  .signup {
+    background-color: black;
+    color: white;
+  }
+  

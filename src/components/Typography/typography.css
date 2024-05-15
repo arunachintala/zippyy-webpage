@@ -1,0 +1,8 @@
+.gradient-text {
+    background: linear-gradient(to right, #F44E32 100%, #8C1D0A 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 56;
+    font-weight: 700;
+    font-family: 'DM Sans';
+  }

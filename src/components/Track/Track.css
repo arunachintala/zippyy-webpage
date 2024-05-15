@@ -1,0 +1,8 @@
+.container p1 {
+    font-size: 5px;
+}
+
+.active {
+    border: 2px solid blue;
+    /* Example border color */
+}
